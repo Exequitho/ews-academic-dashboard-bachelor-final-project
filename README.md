@@ -65,11 +65,11 @@
 ### **Findings & Insights**
 
 **1. Data Integration & System Reliability**
-* Through robust data cleaning using Python, I successfully consolidated multiple datasets that were previously isolated. **Black Box Testing** confirmed a **100% success rate across 16 interactive features** (including complex slicers for Batch, Semester, and Academic Advisor), proving the system's technical stability. [cite: 1]
+* Through robust data cleaning using Python, I successfully consolidated multiple datasets that were previously isolated. **Black Box Testing** confirmed a **100% success rate across 16 interactive features** (including complex slicers for Batch, Semester, and Academic Advisor), proving the system's technical stability.
 
 **2. Stakeholder Usability & Data Quality Gaps**
-* During Qualitative Usability Testing with **Misna Asqia** and **Bu Shelly**, the dashboard effectively served its core purpose. However, the high-level visualization exposed underlying data entry issues from the source system—specifically, **2 students were identified with null (missing) Academic Advisor (PA) data** that had previously gone unnoticed in the manual SISKA system. [cite: 1]
-* Learnability was high; as noted by **Bu Shelly**, once the filter interactions were briefly explained, the users could navigate the dashboard and execute complex queries seamlessly. [cite: 1]
+* During Qualitative Usability Testing with **Misna Asqia** and **Bu Shelly**, the dashboard effectively served its core purpose. However, the high-level visualization exposed underlying data entry issues from the source system—specifically, **2 students were identified with null (missing) Academic Advisor (PA) data** that had previously gone unnoticed in the manual SISKA system.
+* Learnability was high; as noted by **Bu Shelly**, once the filter interactions were briefly explained, the users could navigate the dashboard and execute complex queries seamlessly.
 
 ---
 
@@ -79,4 +79,4 @@ Based on the quantitative metrics and qualitative insights gathered during the d
 
 * **Address the Missing Data Anomaly:** Because the dashboard successfully flagged **2 instances of missing Academic Advisor data**, I recommend the administrative team audit the SISKA input protocol to ensure 100% data completeness at enrollment.
 * **Implement Targeted Interventions:** Utilizing the exact data from the **Bar Chart Risk Distribution**, **Misna Asqia** and the academic advising team should immediately initiate one-on-one counseling for students identified in the high-risk category before the next semester begins.
-* **Scale the Solution:** Given the **16 out of 16 feature success rate** and positive reception, I recommend scaling this dashboard to other study programs (such as TI and BD) to create a unified institutional monitoring standard. [cite: 1]
+* **Scale the Solution:** Given the **16 out of 16 feature success rate** and positive reception, I recommend scaling this dashboard to other study programs (such as TI and BD) to create a unified institutional monitoring standard.
