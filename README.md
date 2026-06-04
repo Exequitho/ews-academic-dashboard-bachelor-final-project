@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 align="center">Academic Dashboard for On-Time Graduation Monitoring</h1>
+  <h1>🚀 Academic Early Warning System (EWS) & Analytics Dashboard</h1>
+  <p><i>Transforming fragmented academic data into proactive, rule-based interventions using Python & Looker Studio.</i></p>
   
   <img src="img/TA - Dashboard.png" alt="Dashboard View" width="600px" />
 </div>
@@ -10,9 +11,8 @@
   <tr>
     <td>
       <div align="center">
-        <h2>Client Background & Problem Statement</h2>
+        <h2>Executive Summary</h2>
       </div>
-       <h3>Executive Summary</h3>
       <p><b>The Problem:</b> The Information Systems Study Program (PRODI SI) at <b>STT Terpadu Nurul Fikri</b> relied on a fragmented, manual tracking system (SISKA) that failed to proactively identify students at risk of delayed graduation or dropout.</p>
       <p><b>The Solution:</b> Collaborating directly with program leadership (<b>Mrs. Misna</b>, Head of PRODI SI) and end-users (<b>Mrs. Shelly</b>), I engineered a fully automated <b>Early Warning System (EWS)</b>. Executed via the <b>Business Intelligence (BI) Roadmap</b>, the pipeline extracts and evaluates student data against strict academic thresholds to trigger proactive counseling interventions.</p>
     </td>
