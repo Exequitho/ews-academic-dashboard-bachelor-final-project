@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Academic Dashboard for On-Time Graduation Monitoring</h1>
   
-  <img src="img/TA - Dashboard.png" alt="Dashboard View" width="100%" />
+  <img src="img/TA - Dashboard.png" alt="Dashboard View" width="300px" />
 </div>
 
 <br />
@@ -38,7 +38,7 @@
     <td valign="top" width="50%">
       <div align="center">
         <h3>1. Average Semester GPA (IPS) Trend</h3>
-        <img src="img/TA - Line Chart.png" alt="Line Chart IPS" width="100%" />
+        <img src="img/TA - Line Chart.png" alt="Line Chart IPS" width="300px" />
       </div>
       <br />
       <ul>
@@ -49,7 +49,7 @@
     <td valign="top" width="50%">
       <div align="center">
         <h3>2. Graduation Risk Distribution</h3>
-        <img src="img/TA - Bar Chart Angkatan.png" alt="Bar Chart Risk" width="100%" />
+        <img src="img/TA - Bar Chart Angkatan.png" alt="Bar Chart Risk" width="300px" />
       </div>
       <br />
       <ul>
