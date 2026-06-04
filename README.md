@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Academic Dashboard for On-Time Graduation Monitoring</h1>
   
-  <img src="img/TA - Dashboard.png" alt="Dashboard View" width="300px" />
+  <img src="img/TA - Dashboard.png" alt="Dashboard View" width="600px" />
 </div>
 
 <br />
