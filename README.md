@@ -12,19 +12,20 @@
       <div align="center">
         <h2>Client Background & Problem Statement</h2>
       </div>
-      <p><b>PRODI SI (Information Systems Study Program)</b> at <b>STT Terpadu Nurul Fikri</b> faced significant challenges in monitoring student academic progress. The existing process relied heavily on manual tracking via the SISKA system, which caused inefficiencies, fragmented data, and an inability to proactively identify students at risk of delayed graduation.</p>
-      <p>Working closely with key stakeholders, including <b>Misna Asqia</b> (Head of PRODI SI) and <b>Bu Shelly</b> (End-User Evaluator), I developed an automated <b>Early Warning System (EWS)</b> and Academic Dashboard utilizing the <b>Business Intelligence (BI) Roadmap</b> methodology to streamline operations and prevent student dropouts.</p>
+       <h3>Executive Summary</h3>
+      <p><b>The Problem:</b> The Information Systems Study Program (PRODI SI) at <b>STT Terpadu Nurul Fikri</b> relied on a fragmented, manual tracking system (SISKA) that failed to proactively identify students at risk of delayed graduation or dropout.</p>
+      <p><b>The Solution:</b> Collaborating directly with program leadership (<b>Mrs. Misna</b>, Head of PRODI SI) and end-users (<b>Mrs. Shelly</b>), I engineered a fully automated <b>Early Warning System (EWS)</b>. Executed via the <b>Business Intelligence (BI) Roadmap</b>, the pipeline extracts and evaluates student data against strict academic thresholds to trigger proactive counseling interventions.</p>
     </td>
   </tr>
 </table>
 
 <br />
 
-### **Core Competencies Demonstrated**
-* **Data Engineering & ETL:** Utilized Python (Pandas) for cleaning and executing `left join` operations on complex, fragmented datasets (Personal Data, Study Results/KHS, and GPA/IPK).
-* **Data Visualization:** Engineered interactive UI/UX in Google Looker Studio.
-* **Framework & Project Management:** Executed end-to-end lifecycle using the Business Intelligence (BI) Roadmap (Justification, Planning, Analysis, Design, Construction, Deployment).
-* **Quality Assurance:** Conducted exhaustive Black Box Testing and Qualitative Usability Testing.
+### **🛠️ Technical Architecture & Core Competencies**
+* **Data Engineering & ETL:** Python (`Pandas`) utilized for complex data wrangling, handling missing values, and executing multi-table `LEFT JOIN` operations across disparate datasets (KHS, IPK, and Personal Data).
+* **Data Quality Assurance (QA):** Conducted rigorous edge-case testing and anomaly detection, successfully identifying critical null values previously hidden in the source system.
+* **Logic-Based Evaluation:** Designed strict algorithmic thresholds (e.g., GPA < 2.75, accumulation of D/E grades) to categorize students into explicit risk tiers.
+* **BI Visualization:** Engineered interactive UI/UX in Google Looker Studio, successfully passing <b>100% of Black Box Testing</b> across 16 dynamic filtering features.
 * **Stakeholder Management:** Elicited requirements and translated qualitative academic needs into strict, actionable business logic.
 
 ---
@@ -62,18 +63,18 @@
 
 <br />
 
-### **Findings & Insights**
+### **🔍 Findings & Insights**
 
 **1. Data Integration & System Reliability**
 * Through robust data cleaning using Python, I successfully consolidated multiple datasets that were previously isolated. **Black Box Testing** confirmed a **100% success rate across 16 interactive features** (including complex slicers for Batch, Semester, and Academic Advisor), proving the system's technical stability.
 
 **2. Stakeholder Usability & Data Quality Gaps**
-* During Qualitative Usability Testing with **Misna Asqia** and **Bu Shelly**, the dashboard effectively served its core purpose. However, the high-level visualization exposed underlying data entry issues from the source system—specifically, **2 students were identified with null (missing) Academic Advisor (PA) data** that had previously gone unnoticed in the manual SISKA system.
+* During Qualitative Usability Testing with **Mrs. Misna** and **Mrs. Shelly**, the dashboard effectively served its core purpose. However, the high-level visualization exposed underlying data entry issues from the source system—specifically, **2 students were identified with null (missing) Academic Advisor (PA) data** that had previously gone unnoticed in the manual SISKA system.
 * Learnability was high; as noted by **Bu Shelly**, once the filter interactions were briefly explained, the users could navigate the dashboard and execute complex queries seamlessly.
 
 ---
 
-### **Actionable Recommendations**
+### **📈 Actionable Recommendations**
 
 Based on the quantitative metrics and qualitative insights gathered during the deployment phase, I presented the following recommendations to the stakeholders:
 
