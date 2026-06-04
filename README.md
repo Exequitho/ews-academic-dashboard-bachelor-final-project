@@ -38,7 +38,7 @@
     <td valign="top" width="50%">
       <div align="center">
         <h3>1. Average Semester GPA (IPS) Trend</h3>
-        <img src="img/TA - Line Chart.png" alt="Line Chart IPS" width="300px" />
+        <img src="img/TA - Line Chart.png" alt="Line Chart IPS" width="400px" />
       </div>
       <br />
       <ul>
