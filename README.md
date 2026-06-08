@@ -1,7 +1,13 @@
 <div align="center">
   <h1>🚀 Academic Early Warning System (EWS) & Analytics Dashboard</h1>
   <p><i>Transforming fragmented academic data into proactive, rule-based interventions using Python & Looker Studio.</i></p>
-  
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Data Engineering" />
+
+  <br /><br />
   <img src="img/TA - Dashboard.png" alt="Dashboard View" width="600px" />
 </div>
 
